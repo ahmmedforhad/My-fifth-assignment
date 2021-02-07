@@ -1,3 +1,7 @@
+#displayHome{
+    margin-top: 40px;
+    margin-left: 200px;
+}
 .meals{
     display: grid;
     grid-template-columns: repeat(4,1fr);
